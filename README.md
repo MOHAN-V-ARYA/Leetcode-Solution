@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
