@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Memoization
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
