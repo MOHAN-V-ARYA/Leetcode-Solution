@@ -102,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
