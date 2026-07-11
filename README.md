@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
