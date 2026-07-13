@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -112,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
