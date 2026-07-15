@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
