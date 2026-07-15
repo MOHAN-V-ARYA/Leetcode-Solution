@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Memoization
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
 |  |
 | ------- |
