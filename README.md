@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
