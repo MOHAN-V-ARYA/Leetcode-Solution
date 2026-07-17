@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting Sort
 |  |
