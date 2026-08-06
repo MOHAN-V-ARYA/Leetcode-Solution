@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
