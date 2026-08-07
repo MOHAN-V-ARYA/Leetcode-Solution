@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0414-third-maximum-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0414-third-maximum-number) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting Sort
 |  |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
