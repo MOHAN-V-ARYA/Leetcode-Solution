@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
