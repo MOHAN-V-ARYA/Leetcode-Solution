@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0118-pascals-triangle) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
