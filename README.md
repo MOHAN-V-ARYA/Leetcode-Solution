@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0764-largest-plus-sign](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0764-largest-plus-sign) |
 | [0905-sort-array-by-parity](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
