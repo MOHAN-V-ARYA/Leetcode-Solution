@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0704-binary-search) |
+| [0764-largest-plus-sign](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0764-largest-plus-sign) |
 | [0905-sort-array-by-parity](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0118-pascals-triangle) |
+| [0764-largest-plus-sign](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0764-largest-plus-sign) |
 ## Greedy
 |  |
 | ------- |
