@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -186,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
