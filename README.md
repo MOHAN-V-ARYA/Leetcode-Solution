@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0764-largest-plus-sign](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0764-largest-plus-sign) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1512-number-of-good-pairs) |
 ## Counting
