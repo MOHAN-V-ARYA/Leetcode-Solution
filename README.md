@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0231-power-of-two) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0412-fizz-buzz) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0268-missing-number) |
