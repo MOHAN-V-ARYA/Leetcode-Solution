@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
