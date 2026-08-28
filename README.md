@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -300,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
