@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -308,10 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MOHAN-V-ARYA/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
